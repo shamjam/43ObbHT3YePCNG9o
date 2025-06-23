@@ -1,1 +1,2 @@
-# ValueInvestor
+# ValueInvestor - Emerging Market Stock Valuation & Trading Strategy
+Developed an intelligent system to aid value investing in emerging markets by predicting stock price valuations on daily, weekly, and monthly bases. The system generates BUY, HOLD, and SELL recommendations using 2020 stock data to predict 2021 Q1 performance. The primary goal is to maximize capital returns and minimize losses, with performance evaluated using capital returns and Bollinger Bands.
